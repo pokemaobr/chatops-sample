@@ -1,0 +1,9 @@
+{
+    "require": {
+        "toin0u/digitalocean-v2": "^2.2",
+        "guzzle/guzzle": "^3.9",
+        "guzzlehttp/guzzle": "^6.3",
+        "longman/telegram-bot": "^0.53.0",
+        "telegram-bot/api": "^2.3"
+    }
+}
